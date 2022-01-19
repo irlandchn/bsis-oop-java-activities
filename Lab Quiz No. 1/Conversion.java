@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class Convert {
+public class Conversion {
 
     public static void main(String[] args){
 
